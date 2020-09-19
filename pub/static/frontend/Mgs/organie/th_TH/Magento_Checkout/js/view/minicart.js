@@ -1,0 +1,1 @@
+/var/www/html/magento2/app/design/frontend/Mgs/mgsblank/Magento_Checkout/web/js/view/minicart.js
